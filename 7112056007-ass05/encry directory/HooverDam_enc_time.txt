@@ -1,0 +1,2 @@
+Encryption round:13
+Encryption time:114.48
