@@ -318,7 +318,7 @@ def calculate_EC(H, V, M):
 
 # 計算ER
 def calculate_ER(H, V, M):
-    ER = round(H * V * np.log2(M) / 3, 5)
+    ER = round((H * V * np.log2(M)) / (H * V * 3), 5)
 
     return ER
 
