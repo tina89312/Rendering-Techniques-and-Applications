@@ -2,7 +2,7 @@
 
 「成像技術與應用」課程中完成的作業，內容涵蓋影像加密、矩陣轉換、資料隱藏與整合性保護等。以下依作業編號簡介每個主題的核心目標與實作內容。
 
----
+<br>
 
 ## Assignment 01 - Image Encryption by 2D EAT and RP
 
@@ -10,7 +10,7 @@
 
 **重點**：空間與位元層級的雙重加密設計。
 
----
+<br>
 
 ## Assignment 02 - Image Encryption Using Enhanced Sine Chaotic Sequence
 
@@ -18,7 +18,7 @@
 
 **重點**：將混沌理論導入圖像加密流程，加強擴散效果。
 
----
+<br>
 
 ## Assignment 03 - Rectangular Transformation Matrix Finder
 
@@ -26,7 +26,7 @@
 
 **重點**：建立合法轉換矩陣組合並計算其週期。
 
----
+<br>
 
 ## Assignment 04 - Determine Period from Coefficients
 
@@ -34,7 +34,7 @@
 
 **重點**：驗證轉換合法性與週期性。
 
----
+<br>
 
 ## Assignment 05 - Inverse Rectangular Transformation
 
@@ -42,7 +42,7 @@
 
 **重點**：實作影像座標轉換的正逆向操作流程。
 
----
+<br>
 
 ## Assignment 06 - GWM Data Hiding
 
@@ -50,7 +50,7 @@
 
 **重點**：多進制資料隱藏技術與嵌入正確性驗證。
 
----
+<br>
 
 ## Assignment 07 - GWMRDH Algorithm (Reversible Data Hiding)
 
@@ -58,7 +58,7 @@
 
 **重點**：支援資料完整回復的影像隱藏架構。
 
----
+<br>
 
 ## Assignment 08 - Integrated Message Embedding and Encryption Algorithm
 
@@ -66,5 +66,4 @@
 
 **重點**：資料嵌密 + 加密整合的多階段防護架構。
 
----
 
