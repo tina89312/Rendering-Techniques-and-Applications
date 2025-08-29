@@ -1,7 +1,4 @@
-# Rendering-Techniques-and-Applications
-Assignment for Rendering Techniques and Applications Course, National Chung Hsing University, 112th Academic Year, First Semester
-
-# 成像技術與應用作業總覽
+# 成像技術與應用作業簡介
 
 「成像技術與應用」課程中完成的作業，內容涵蓋影像加密、矩陣轉換、資料隱藏與整合性保護等。以下依作業編號簡介每個主題的核心目標與實作內容。
 
